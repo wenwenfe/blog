@@ -1,5 +1,4 @@
 ﻿---
 title: Hello World
 ---
-测试一下!!!!!撒打开了附件This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
+# 测试测试啦 lyx #
